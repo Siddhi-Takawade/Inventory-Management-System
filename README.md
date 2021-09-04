@@ -1,2 +1,2 @@
 # Inventory-Management-System
-Inventory management system in python using json files.
+This is an Inventory management system built in python using json files.
