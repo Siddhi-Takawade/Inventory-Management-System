@@ -2,8 +2,8 @@
 This is an Inventory management system built in python using json files.
 
 The code of this Inventory Management System is mainly in two parts named :
-1. Adding new products.ipynb
-2. Purchasing products.ipynb
+1. Adding_new_products.ipynb
+2. Purchasing_products.ipynb
 
 ### Adding new products 
 This contains the code to Read data from JSON, Add new items to Inventory, Manipulating the Quantity of the products present in the inventory records, Generating report of the json file using Pandas profiling.
